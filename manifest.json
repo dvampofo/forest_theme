@@ -1,0 +1,36 @@
+{
+
+  "manifest_version": 2,
+  "name": "Forest at Sunset Vector theme",
+  "description" : "Vector image of a forest at sunset",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "images" : {
+      "theme_frame" :"images/forest.png",
+      "theme_frame_overlay" : "images/forest.png",
+      "theme_toolbar" :"images/forest.png",
+      "theme_ntp_background" : "images/forest.png",
+      "theme_frame_incognito" : "images/incognito.png",
+      "theme_frame_inactive" : "images/incognito.png"
+    },
+    "colors" : {
+      "frame" : [71, 105, 91],
+      "ntp_text" : [20, 40, 0],
+      "ntp_link" : [36, 70, 0],
+      "button_background" : [255, 255, 255],
+      "tab_text": [255, 195, 0]
+    },
+    "tints" : {
+      "buttons" : [0.33, 0.5, 0.47]
+    },
+    "properties" : {
+      "ntp_background_alignment" : "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+  "version" : "1.0.0"
+}
