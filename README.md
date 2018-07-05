@@ -6,8 +6,7 @@ An illustration of a forest at sunset theme for Google Chrome.
 ## Installation
 
 ### Step 1: 
-### [Download the theme](https://github.com/dvampofo/forest_theme/blob/master/Forest_Vector_Theme.crx).
-
+### [Download the theme](https://github.com/dvampofo/forest_theme/raw/master/Forest_Vector_Theme.crx).
 ### Step 2:
 
 - Open the Chrome Extensions panel by going to ```chrome://extensions/``` - **"DEVELOPER MODE" MUST BE ACTIVE** in order to add the ```.crx``` file.
