@@ -1,7 +1,7 @@
 # Forest at Sunset Vector Theme
 
 An illustration of a forest at sunset theme for Google Chrome.
-![Forest Theme](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_active.png?raw=true)
+![Forest Theme](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_normal.png?raw=true)
 
 ## Installation
 
@@ -15,12 +15,15 @@ An illustration of a forest at sunset theme for Google Chrome.
 
 ## Screenshots
 
-![Image 1](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_normal.png?raw=true)
-![Image 2](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_active.png?raw=true)
+![Image 1](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_active.png?raw=true)
+
+![Image 2](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_normal.png?raw=true)
+
 
 ### Purple theme for *Incognito mode* :
 
 ![Image 3](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_incognito.png?raw=true)
+
 ![Image 4](https://github.com/dvampofo/forest_theme/blob/master/screenshots/browser_incognito2.png?raw=true)
 
 ## Theme Documents
