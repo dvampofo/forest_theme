@@ -10,7 +10,7 @@ An illustration of a forest at sunset theme for Google Chrome.
 ### Step 2:
 
 - Open the Chrome Extensions panel by going to ```chrome://extensions/``` - **"DEVELOPER MODE" MUST BE ACTIVE** in order to add the ```.crx``` file.
-- You can drag and drop ```.crx``` file onto the browser:
+- You can drag and drop the ```.crx``` file onto the browser:
 ![Demo gif](https://github.com/dvampofo/forest_theme/blob/master/screenshots/installation.gif?raw=true)
 
 ## Screenshots
